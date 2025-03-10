@@ -1,0 +1,29 @@
+
+
+                                GAL22V10
+
+                          -------\___/-------
+                      A15 |  1           24 | VCC
+                          |                 |
+                     VA14 |  2           23 | RW
+                          |                 |
+                      TCR |  3           22 | uTIO2
+                          |                 |
+                   CHAREN |  4           21 | EXROM
+                          |                 |
+                      A14 |  5           20 | ROMH
+                          |                 |
+                     IRAM |  6           19 | GAME
+                          |                 |
+                      A13 |  7           18 | CHAROM
+                          |                 |
+                    LORAM |  8           17 | VA13
+                          |                 |
+                       FE |  9           16 | KERNAL
+                          |                 |
+                      A12 | 10           15 | VA12
+                          |                 |
+                      AEC | 11           14 | CASRAM
+                          |                 |
+                      GND | 12           13 | OE
+                          -------------------

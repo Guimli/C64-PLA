@@ -1,0 +1,29 @@
+
+
+ Pin # | Name     | Pin Type
+-----------------------------
+   1   | AEC      | Clock/Input
+   2   | RW       | Input
+   3   | BA       | Input
+   4   | EXROM    | Input
+   5   | A12      | Input
+   6   | GAME     | Input
+   7   | A15      | Input
+   8   | A14      | Input
+   9   | A13      | Input
+  10   | FE       | Input
+  11   | OE       | Input
+  12   | GND      | GND
+  13   | CAS      | Input
+  14   | ROML     | Output
+  15   | IO       | Output
+  16   | GRW      | Output
+  17   | LORAM    | Input
+  18   | BASIC    | Output
+  19   | IRAM     | Input
+  20   | TIO1     | Output
+  21   | CHAREN   | Input
+  22   | TCR      | Output
+  23   | TIO2     | Output
+  24   | VCC      | VCC
+
